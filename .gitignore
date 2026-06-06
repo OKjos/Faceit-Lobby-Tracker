@@ -1,0 +1,24 @@
+# Build output
+dist/
+build/
+*.spec
+
+# Docs
+docs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Config (contains API key)
+.faceit_companion.json
+
+# Debug
+debug_stats.py
+debug_stats.json
+
+# Env
+.env
+venv/
+.venv/
